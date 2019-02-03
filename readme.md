@@ -10,8 +10,11 @@
 * Bluetooth - Message from phone??
 * Light Sensor - Whos been eating my sweets
 * Water sensor - Nails and analog pins
+* Serial - Serial comms
+* Wifi - ESP8266 over serial
 * Transition from blocks to javascript
 * Python 
+
 
 ## Scripts
 
