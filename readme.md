@@ -1,4 +1,4 @@
-# Micro:Bit Dojo Notes
+# micro:bit Arklow dojo notes 
 
 ## Ideas
 
