@@ -2,6 +2,8 @@
 
 ## Ideas
 
+* Virutal Pet - 
+* Reaction Game - https://codeclubprojects.org/en-GB/microbit/reaction/
 * Sonar - https://www.instructables.com/id/Distance-Sensing-With-the-Microbit-and-Sonar-HC-SR/
 * GPIO - Blinky Lights
 * Frustraition Game - https://codeclubprojects.org/en-GB/microbit/frustration/
