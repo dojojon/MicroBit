@@ -2,12 +2,16 @@
 
 ## Ideas
 
-Sonar - https://www.instructables.com/id/Distance-Sensing-With-the-Microbit-and-Sonar-HC-SR/
-GPIO - Blinky Lights
-Frustraition Game - https://codeclubprojects.org/en-GB/microbit/frustration/
-Rover - Connect to rover??
-Game Controller - USB Controller
-Bluetooth??
+* Sonar - https://www.instructables.com/id/Distance-Sensing-With-the-Microbit-and-Sonar-HC-SR/
+* GPIO - Blinky Lights
+* Frustraition Game - https://codeclubprojects.org/en-GB/microbit/frustration/
+* Rover - Connect to rover??
+* Game Controller - USB Controller motor bike example
+* Bluetooth - Message from phone??
+* Light Sensor - Whos been eating my sweets
+* Water sensor - Nails and analog pins
+* Transition from blocks to javascript
+* Python 
 
 ## Scripts
 
