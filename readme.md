@@ -15,7 +15,11 @@
 
 ## Scripts
 
-## Virtual Pet - Virtual Pet in Javascript
+### Virtual Pet 
+
+Virtual pet in blocks
+
+virtual_pet.js
 
 
 
