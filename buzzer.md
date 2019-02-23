@@ -18,6 +18,9 @@ Parts:  2 clip wires, 1 PEIZO Buzzer or headphones
 * Try a security buzzer using the light sensors so it alarms when the box is opened
 * Try a changing the tone with sensors/light movement/temperature
 * Try a changing the tempo when sensors/light movement/temperature
+* Add a voice to a virtual pet
+* Add sound effects to a game
+* Make a game where you move the microbit around slowly, but if it buzzes game over.
 
 ## Some songs
 
