@@ -71,3 +71,26 @@ input.onButtonPressed(Button.B, function () {
 })
 ```
 
+## Baby Shark
+
+```javascript
+input.onButtonPressed(Button.A, function () {
+    music.setTempo(26)
+    for (let i = 0; i < 3; i++) {
+        music.playTone(294, music.beat(BeatFraction.Whole))
+        music.rest(music.beat(BeatFraction.Sixteenth))
+        music.playTone(330, music.beat(BeatFraction.Whole))
+        music.rest(music.beat(BeatFraction.Sixteenth))
+        for (let i = 0; i < 7; i++) {
+            music.playTone(392, music.beat(BeatFraction.Whole))
+            music.rest(music.beat(BeatFraction.Sixteenth))
+        }
+    }
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+    music.playTone(370, music.beat(BeatFraction.Whole))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+})
+```
