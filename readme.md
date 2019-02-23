@@ -7,8 +7,7 @@
 * Sonar - https://www.instructables.com/id/Distance-Sensing-With-the-Microbit-and-Sonar-HC-SR/
 * GPIO - Blinky Lights
 * Frustraition Game - https://codeclubprojects.org/en-GB/microbit/frustration/
-* Buzzer - 
-* Headphones -
+* Buzzer/Headphones - [Notes](./buzzer.md)
 * Light Sensor - Whos been eating my sweets
 * Water sensor - Nails and analog pins
 * Game Controller - USB Controller motor bike example
