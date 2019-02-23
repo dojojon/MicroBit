@@ -25,3 +25,14 @@ Twinkle Twinkle
 (https://www.letsplaykidsmusic.com/twinkle-twinkle-little-star-easy-piano-music/)
 
 C C G G A A G F F E E D D C
+
+
+## Movement Sensor
+
+```javascript
+basic.forever(function () {
+    if (Math.abs(input.acceleration(Dimension.X)) > 100) {
+        music.playTone(262, music.beat(BeatFraction.Whole))
+    }
+})
+```
