@@ -26,6 +26,14 @@ Twinkle Twinkle
 
 C C G G A A G F F E E D D C
 
+Baby Shark
+(https://noobnotes.net/baby-shark-pinkfong/)
+
+D-E       G   G   G   G   G   G   G
+D-E       G   G   G   G   G   G   G
+D-E       G   G   G   G   G   G   G
+G-G     F#
+
 ## Movement Sensor
 
 Try change the tone using another axis.
