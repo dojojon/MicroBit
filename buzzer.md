@@ -26,8 +26,9 @@ Twinkle Twinkle
 
 C C G G A A G F F E E D D C
 
-
 ## Movement Sensor
+
+Try change the tone using another axis.
 
 ```javascript
 basic.forever(function () {
